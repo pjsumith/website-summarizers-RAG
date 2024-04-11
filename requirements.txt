@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+chromadb
+tiktoken
+huggingface_hub
+langchain-nomic
+beautifulsoup4
+sentence-transformers
+langchainhub
+einops
