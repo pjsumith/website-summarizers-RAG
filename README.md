@@ -1,5 +1,5 @@
 ---
-title: Website Sumary Chatbot
+title: Website Summarizers-RAG
 emoji: ⚡
 colorFrom: blue
 colorTo: purple
